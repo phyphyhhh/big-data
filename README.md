@@ -1,4 +1,4 @@
-# Big Data and Its Tools ¨C Course Repository
+# Big Data and Its Tools Course Repository
 
 This repository contains coursework and assignments for the class **Big Data and Its Tools**.
 
